@@ -49,7 +49,7 @@ class App extends Component{
       return(
         <div>
             <br />
-            <h4>Retriving the Data once you hit the upload button.</h4>
+            <h4>Choose the file before pressing the upload buutton</h4>
           </div>
       );
      }
